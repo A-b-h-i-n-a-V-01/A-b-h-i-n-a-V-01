@@ -16,3 +16,4 @@ I'm Abhinav Krishna C S, a Computer Science Engineering student passionate about
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200px">
 </p>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F78C&width=600&lines=🚗+BMW+M5+CS+Dream+Machine!;🏎️+Passionate+about+Cars+and+Tech;💻+CSE+Student+on+a+Mission!)

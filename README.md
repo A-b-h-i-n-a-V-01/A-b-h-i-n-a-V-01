@@ -12,3 +12,7 @@ I'm Abhinav Krishna C S, a Computer Science Engineering student passionate about
     </a></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200px">
+</p>

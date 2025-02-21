@@ -16,12 +16,3 @@ I'm Abhinav Krishna C S, a Computer Science Engineering student passionate about
     </td>
   </tr>
 </table>
-
-<style>
-  table img {
-    transition: transform 0.2s ease-in-out;
-  }
-  table img:hover {
-    transform: scale(1.1);
-  }
-</style>

@@ -1,10 +1,4 @@
 ##   ΛʙʜɪɴᴀV
-<svg width="200" height="50">
-  <text x="10" y="35" font-size="30" font-weight="bold" fill="yellow">
-    ΛʙʜɪɴᴀV
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </text>
-</svg>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE28&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY)
 

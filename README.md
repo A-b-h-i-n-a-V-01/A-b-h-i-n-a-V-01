@@ -17,4 +17,4 @@ Just a whisper from eternity
   </tr>
 </table>
   
-![Car GIF](https://media.giphy.com/media/l4FGB4QYj2h6ZPzG4/giphy.gif)
+![Car GIF](https://giphy.com/gifs/topgear-fire-cars-mercedes-3Z11u3szKTL2zY5y5u)

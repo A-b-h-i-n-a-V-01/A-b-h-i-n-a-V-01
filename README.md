@@ -1,4 +1,5 @@
-<h1> align="center">ΛʙʜɪɴᴀV</h1>
+<h1 align="center">ΛʙʜɪɴᴀV</h1>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY)
 
 ### Social Profiles  

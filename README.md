@@ -1,8 +1,8 @@
 <h1 align="center">ΛʙʜɪɴᴀV</h1>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY" />
+<p align="center" 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY" />
 </p>
 
 ### Social Profiles  

@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7BE28&width=435&lines=So+close;Yet+so+far)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&color=F7BE28&width=435&lines=So+close;Yet+so+far)
 
 ### Social Profiles  
 <table>

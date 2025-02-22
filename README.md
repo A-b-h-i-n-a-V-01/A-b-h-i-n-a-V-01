@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY+!" />
 </p>
 
-<h4 align="center">Social Profiles</h4>
+<h3 align="center">Social Profiles</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-krishna-c-s-820717291">

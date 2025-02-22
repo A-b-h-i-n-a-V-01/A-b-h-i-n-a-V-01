@@ -1,3 +1,4 @@
+![Car Fire GIF](https://media.giphy.com/media/3Z11u3szKTL2zY5y5u/giphy.gif)
 ##   ΛʙʜɪɴᴀV
 Just a whisper from eternity  
 
@@ -19,4 +20,3 @@ Just a whisper from eternity
   
   
 ![BMW Drift GIF](https://media.giphy.com/media/ySvhFxq6Z4LrbqaikJ/giphy.gif)
-![Car Fire GIF](https://media.giphy.com/media/3Z11u3szKTL2zY5y5u/giphy.gif)

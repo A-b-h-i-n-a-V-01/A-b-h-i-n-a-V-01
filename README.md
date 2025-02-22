@@ -1,7 +1,7 @@
 ##   ΛʙʜɪɴᴀV
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=F7BE28&width=435&lines=So+close;Yet+so+far)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0&color=F7BE28&width=435&lines=So+close;Yet+so+far)
 ### Social Profiles  
 <table>
   <tr>

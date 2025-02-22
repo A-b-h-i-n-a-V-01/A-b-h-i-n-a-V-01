@@ -1,5 +1,5 @@
 ##   ΛʙʜɪɴᴀV
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE28&width=435&lines=𝘑𝘶𝘴𝘵+𝘢+𝘸𝘩𝘪𝘴𝘱𝘦𝘳+𝘧𝘳𝘰𝘮+𝘦𝘵𝘦𝘳𝘯𝘪𝘵𝘺)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE28&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY)
 
 <style>
 @keyframes blink { 50% { opacity: 0; } }

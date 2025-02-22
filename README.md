@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&width=600&lines=JUST+A+WHISPER+FROM+ETERNITY" />
+</p>
+
 ### Social Profiles  
 <table>
   <tr>

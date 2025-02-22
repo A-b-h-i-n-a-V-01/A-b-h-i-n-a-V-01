@@ -1,4 +1,4 @@
-## ΛʙʜɪɴᴀV
+##                    ΛʙʜɪɴᴀV
 I'm Abhinav Krishna C S, a Computer Science Engineering student passionate about coding, cars, and tech!  
 
 ### Social Profiles  

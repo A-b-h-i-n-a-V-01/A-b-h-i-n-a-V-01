@@ -1,5 +1,5 @@
 ##   ΛʙʜɪɴᴀV
-I'm Abhinav Krishna C S, a Computer Science Engineering student passionate about coding, cars, and tech!  
+Just a whisper from eternity  
 
 ### Social Profiles  
 <table>

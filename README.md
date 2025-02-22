@@ -2,6 +2,12 @@
 𝑱𝒖𝒔𝒕 𝒂 𝒘𝒉𝒊𝒔𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝒆𝒕𝒆𝒓𝒏𝒊𝒕𝒚  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE28&width=435&lines=Hey+there!+I'm+Abhinav+Krishna;Car+Enthusiast+%F0%9F%8F%8E%EF%B8%8F+%26+Tech+Geek+%F0%9F%92%BB;Exploring+AI%2C+Gaming%2C+and+Code!)
 
+<span style="color: yellow; font-weight: bold; animation: blink 1s infinite;">🔥 BMW M5 CS Lover! 🔥</span>
+
+<style>
+@keyframes blink { 50% { opacity: 0; } }
+span { animation: blink 1s infinite; }
+</style>
 ### Social Profiles  
 <table>
   <tr>

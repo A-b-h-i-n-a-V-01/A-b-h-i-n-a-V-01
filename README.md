@@ -6,6 +6,8 @@
 </p>
 
 ### Social Profiles  
+<h2 align="center">Social Profiles</h2>
+
 <table>
   <tr>
     <td>

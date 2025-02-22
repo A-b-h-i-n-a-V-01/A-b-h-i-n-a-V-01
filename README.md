@@ -1,6 +1,6 @@
 ##   ΛʙʜɪɴᴀV
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE28&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7BE28&width=435&lines=JUST+A+WHISPER+FROM+ETERNITY)
 ### Social Profiles  
 <table>
   <tr>

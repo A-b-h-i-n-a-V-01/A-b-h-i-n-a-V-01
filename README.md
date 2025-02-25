@@ -22,4 +22,6 @@
   </tr>
 </table>
   
-![Car Fire GIF](https://media.giphy.com/media/3Z11u3szKTL2zY5y5u/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif" />
+</p>

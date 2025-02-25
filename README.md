@@ -1,7 +1,7 @@
 <h1 align="center">ΛʙʜɪɴᴀV</h1>
 
 <p align="center">
-  <img src="https://svgtext.app/api/?text=ΛʙʜɪɴᴀV&fontSize=70&width=500&height=100&fontFamily=Orbitron&gradientType=linear&gradientColors=39FF14,F7BE28,FF5733" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/gradient-text.svg" alt="ΛʙʜɪɴᴀV">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&center=true&vCenter=true&lines=JUST+A+WHISPER+FROM+ETERNITY+!"/>

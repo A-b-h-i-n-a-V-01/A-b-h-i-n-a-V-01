@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=F7BE28&center=true&vCenter=true&repeat=false&duration=200&lines=Social+Profiles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=F7BE28&center=true&vCenter=true&repeat=false&pause=200&lines=Social+Profiles" />
 </p>
 
 <p align="center">

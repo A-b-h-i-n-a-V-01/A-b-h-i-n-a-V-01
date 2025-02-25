@@ -1,7 +1,5 @@
 <h1 align="center">ΛʙʜɪɴᴀV</h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=39FF14,F7BE28,FF5733&center=true&vCenter=true&width=600&lines=ΛʙʜɪɴᴀV" />
-</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39FF14&center=true&vCenter=true&lines=JUST+A+WHISPER+FROM+ETERNITY+!"/>

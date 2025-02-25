@@ -5,6 +5,9 @@
 </p>
 
 <h3 align="center" style="font-family: 'Cinzel', serif;">Social Profiles</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=F7BE28&center=true&vCenter=true&lines=Social+Profiles" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-krishna-c-s-820717291">

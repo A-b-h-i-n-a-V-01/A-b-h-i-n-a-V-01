@@ -5,8 +5,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=F7BE28&center=true&vCenter=true&repeat=false&pause=50&lines=Social+Profiles" />
+<p align="center" style="font-family: Georgia; font-size: 24px; color: #F7BE28;">
+  Social Profiles
 </p>
 
 

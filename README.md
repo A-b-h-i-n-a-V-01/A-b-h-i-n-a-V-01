@@ -5,10 +5,7 @@
 </p>
 
 
-<p align="center" style="font-family: Georgia; font-size: 24px; color: #F7BE28;">
-  <b>Social Profiles</b>
-</p>
-
+<h2 align="center" style="color:#F7BE28;">Social Profiles</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-krishna-c-s-820717291">

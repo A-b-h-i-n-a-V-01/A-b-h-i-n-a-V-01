@@ -5,8 +5,7 @@
 </p>
 
 
-<p align="center" style="font-family: Georgia; font-size: 50px; color: #F7BE28;">
-  Social Profiles
+<p align="center" style="font-family: Georgia; font-size: 50px; color: #F7BE28;">Social Profiles
 </p>
 
 

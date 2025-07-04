@@ -19,5 +19,4 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif" />
 </p>

@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on academic and personal development projects<br><br>👥 I’m looking to collaborate on innovative tech projects<br><br>🤝 I’m looking for help with real-world AI applications<br><br>🌱 I’m currently learning Machine Learning, Cybersecurity, and Data Analytics<br><br>💬 Ask me about Python, C, Git, GitHub, and programming fundamentals<br><br>⚡ Fun fact: I love cars and enjoy exploring new technologies.
+🔭 I’m currently working on academic and personal development projects<br><br>👥 I’m looking to collaborate on innovative tech projects<br><br>🤝 I’m looking for help with real-world AI applications<br><br>🌱 I’m currently learning Machine Learning, Cybersecurity, and Data Analytics<br><br>⚡ Fun fact: I love cars and enjoy exploring new technologies.
 
 
 ## 🌐 Socials:

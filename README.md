@@ -12,8 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=A-b-h-i-n-a-V-01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=A-b-h-i-n-a-V-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-b-h-i-n-a-V-01&theme=github-dark)](https://github.com/A-b-h-i-n-a-V-01)

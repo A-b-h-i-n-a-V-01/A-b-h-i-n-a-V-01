@@ -1,7 +1,7 @@
 # About Me:
 🔭 I’m currently working on academic and personal development projects<br><br>👥 I’m looking to collaborate on innovative tech projects<br><br>🤝 I’m looking for help with real-world AI applications<br><br>🌱 I’m currently learning Machine Learning, Cybersecurity, and Data Analytics<br><br>⚡ Fun fact: I love cars and enjoy exploring new technologies.
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
 [Visit My Portfolio](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
 
@@ -15,5 +15,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=A-b-h-i-n-a-V-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=A-b-h-i-n-a-V-01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=A-b-h-i-n-a-V-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=A-b-h-i-n-a-V-01&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-b-h-i-n-a-V-01&theme=github-dark)](https://github.com/A-b-h-i-n-a-V-01)

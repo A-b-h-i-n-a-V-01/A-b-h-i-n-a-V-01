@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Krishna 👋
 
-**B.Tech Computer Science Engineering Student | Machine Learning Enthusiast | Cybersecurity Learner**
+**B.Tech Computer Science Engineering Student. I have a strong interest in exploring different programming languages and learning how technology can solve real-world problems. I'm eager to gain experience, work on projects, and connect with others in the tech field.**
 
 # About Me
 

@@ -16,7 +16,7 @@
 
 # 🌐 Portfolio
 
-🌐 Portfolio Website: [Visit Here](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
+Portfolio Website: [Visit Here](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
 
 # 🌐 Socials
 

@@ -1,62 +1,61 @@
-# Hi, I'm Abhinav Krishna 👋
+<div align="center">
 
-**B.Tech Computer Science Engineering Student. I have a strong interest in exploring different programming languages and learning how technology can solve real-world problems. I'm eager to gain experience, work on projects, and connect with others in the tech field.**
+# Abhinav Krishna C S
 
-## About Me
+**Computer Science & Engineering · SNGCE, KTU · Graduating 2027**
 
-🔭 I’m currently working on academic and personal development projects
+I build things at the intersection of software, data, and security —
+and I'm always looking for the next problem worth solving.
 
-👥 I’m looking to collaborate on innovative tech projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-krishna-c-s-820717291)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhinavkrishnacs01@gmail.com)
 
-🤝 I’m looking for help with real-world AI applications
+</div>
 
-🌱 I’m currently learning Machine Learning, Cybersecurity, and Data Analytics
+---
 
-⚡ Fun fact: I love cars and enjoy exploring new technologies.
+## About
 
-## 🌐 Portfolio
+B.Tech CSE student with hands-on experience in software development and cybersecurity from internships at **Facein Technologies** and **Right Soft Options**, and additional training through an **IEEE AI/ML Bootcamp**. Recently completed **AlumniNet**, a full-stack alumni management platform built with Flask and MySQL.
 
-Portfolio Website: [Visit Here](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
+My interests span machine learning, applied cybersecurity, and building tools that genuinely reduce friction for the people who use them.
 
-## 🌐 Socials
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinav-krishna-c-s-820717291)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:abhinavkrishnacs01@gmail.com)
+## Tech Stack
 
-## 💻 Tech Stack
+**Languages**
+`C` · `C++` · `Java` · `Python` · `HTML5` · `CSS3`
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge\&logo=Adobe%20Lightroom\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge\&logo=plotly\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
+**Data & Machine Learning**
+`NumPy` · `Pandas` · `Matplotlib` · `Plotly` · `scikit-learn`
 
-## 📊 GitHub Stats
+**Web & Deployment**
+`TailwindCSS` · `Streamlit` · `MySQL` · `Vercel` · `Render`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=A-b-h-i-n-a-V-01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=A-b-h-i-n-a-V-01&theme=github-dark&hide_border=true" />
-</p>
+**Tools & Design**
+`Git` · `GitHub` · `Canva` · `Adobe Lightroom`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=A-b-h-i-n-a-V-01&theme=github_dark&hide_border=true&layout=compact" />
-</p>
+---
 
-<p align="center">
+## GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.shion.dev/api?username=A-b-h-i-n-a-V-01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=A-b-h-i-n-a-V-01&theme=github-dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=A-b-h-i-n-a-V-01&theme=github_dark&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-b-h-i-n-a-V-01&theme=github-dark&hide_border=true" />
-</p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Always open to a good conversation — reach out on <a href="https://linkedin.com/in/abhinav-krishna-c-s-820717291">LinkedIn</a> or drop a <a href="mailto:abhinavkrishnacs01@gmail.com">mail</a>.</sub>
+</div>

@@ -2,7 +2,7 @@
 
 **B.Tech Computer Science Engineering Student. I have a strong interest in exploring different programming languages and learning how technology can solve real-world problems. I'm eager to gain experience, work on projects, and connect with others in the tech field.**
 
-# About Me
+## About Me
 
 🔭 I’m currently working on academic and personal development projects
 
@@ -14,16 +14,16 @@
 
 ⚡ Fun fact: I love cars and enjoy exploring new technologies.
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
 Portfolio Website: [Visit Here](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
 
-# 🌐 Socials
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinav-krishna-c-s-820717291)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:abhinavkrishnacs01@gmail.com)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
@@ -46,12 +46,17 @@ Portfolio Website: [Visit Here](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=A-b-h-i-n-a-V-01\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=A-b-h-i-n-a-V-01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=A-b-h-i-n-a-V-01&theme=github-dark&hide_border=true" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=A-b-h-i-n-a-V-01\&theme=dark\&hide_border=false)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=A-b-h-i-n-a-V-01&theme=github_dark&hide_border=true&layout=compact" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=A-b-h-i-n-a-V-01\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
-[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-b-h-i-n-a-V-01\&theme=github-dark)](https://github.com/A-b-h-i-n-a-V-01)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-b-h-i-n-a-V-01&theme=github-dark&hide_border=true" />
+</p>

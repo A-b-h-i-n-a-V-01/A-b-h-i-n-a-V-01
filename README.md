@@ -7,7 +7,7 @@
 I build things at the intersection of software, data, and security —
 and I'm always looking for the next problem worth solving.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://a-b-h-i-n-a-v-01.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://a-b-h-i-n-a-v-01.github.io/Personal-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-krishna-c-s-820717291)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhinavkrishnacs01@gmail.com)
 

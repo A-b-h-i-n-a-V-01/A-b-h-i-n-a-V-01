@@ -17,9 +17,9 @@ and I'm always looking for the next problem worth solving.
 
 ## About
 
-B.Tech CSE student with hands-on experience in software development and cybersecurity from internships at **Facein Technologies** and **Right Soft Options**, and additional training through an **IEEE AI/ML Bootcamp**. Recently completed **AlumniNet**, a full-stack alumni management platform built with Flask and MySQL.
+B.Tech Computer Science Engineering student passionate about machine learning, data science, and software development. I enjoy building practical applications that combine data, intelligent decision-making, and user-focused design. My projects include ChargeIQ, an EV charging station recommendation system with wait-time prediction, and AlumniNet, a Flask-based alumni management platform.
 
-My interests span machine learning, applied cybersecurity, and building tools that genuinely reduce friction for the people who use them.
+Interested in predictive analytics, intelligent systems, and developing technology that delivers meaningful real-world impact.
 
 ---
 
@@ -41,9 +41,11 @@ My interests span machine learning, applied cybersecurity, and building tools th
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
 
 **Web & Deployment**
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

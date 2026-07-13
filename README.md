@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0B1220,50:132B4D,100:1B4F8C&text=Abhinav%20Krishna%20C%20S&fontColor=FFFFFF&fontSize=46&font=Segoe%20UI&fontAlignY=42&desc=Machine%20Learning%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Computer%20Science%20Engineering&descAlignY=68&descColor=E6EDF3"
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0B1220,50:132B4D,100:1B4F8C&text=Abhinav%20Krishna%20C%20S&fontColor=FFFFFF&fontSize=46&font=Segoe%20UI&fontAlignY=42&desc=Machine%20Learning%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=68&descColor=E6EDF3"
     width="100%"
     alt="Banner"
   />

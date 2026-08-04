@@ -7,6 +7,7 @@
     alt="Banner"
   />
 </p>
+hi
 
 **Computer Science & Engineering · SNGCE, KTU · Graduating 2027**
 
